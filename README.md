@@ -15,7 +15,8 @@ A simple **BMI (Body Mass Index) Calculator** built using **Java** for the logic
 - **Android Studio** – Development environment
 
 ### 📱 Screenshot
-*(You can insert an image here if you have one)*
+![BMI Screenshot](images/BMI1.png)
+![BMI Screenshot](images/BMI2.png)
 
 ### 📦 Getting Started
 1. Clone this repo:
