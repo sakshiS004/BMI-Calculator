@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
                     txtR.setText("You are OverWeight!!");
                 }
                 else {
-                    txtR.setText("You are Healthy!!");
+                   txtR.setText("You are Healthy!!");
                 }
 
             }
