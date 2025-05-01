@@ -1,6 +1,3 @@
-Here’s a clean and professional **GitHub README summary** for your **BMI-Calculator** project:
-
----
 
 ## 🧮 BMI Calculator App
 
